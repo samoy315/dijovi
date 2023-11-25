@@ -1,6 +1,6 @@
 --- 
-title: "A Minimal Book Example"
-author: "John Doe"
+title: "GRUPO CAMPO AMBIENTE"
+author: "Victor Sevilla, Diego Machado y Jose Caicedo"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
